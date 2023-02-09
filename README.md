@@ -37,6 +37,7 @@ The columns/features in the given dataset are as follows:
 arrive at the property
 
 # Challenges
+
 (1) Lot of null values were present in the dataset.
 (2) Data type of some Data was in wrong format.
 (3) Lot of duplicate data.
